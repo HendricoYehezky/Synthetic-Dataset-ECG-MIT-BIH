@@ -21,3 +21,7 @@ Class 5: Fusion of Paced and Normal - The ECG data here is indicative of a hybri
 
 All datasets have been rigorously tested and validated to ensure their relevance and accuracy for studies focusing on arrhythmia classification, cardiac signal processing, and machine learning applications in healthcare. 
 Access to the data is granted on a reasonable request basis, with the intention of promoting collaborative efforts in advancing cardiac care and research.
+
+
+References:
+H. Y. N. Atmadja, A. Bustamam and Hermawan, "Generated Tabular Data with Multi-GANs for Arrhythmia Classification Based on DNN Models," 2022 International Conference of Science and Information Technology in Smart Administration (ICSINTESA), Denpasar, Bali, Indonesia, 2022, pp. 69-74, doi: 10.1109/ICSINTESA56431.2022.10041673.
